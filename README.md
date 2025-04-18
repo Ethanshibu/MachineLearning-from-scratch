@@ -2,12 +2,18 @@
 
 This repository contains implementations of core Machine Learning algorithms **from scratch**, without relying on high-level ML libraries like scikit-learn. Each folder contains one algorithm, its dataset (if applicable), and Jupyter notebooks for step-by-step explanation and code.
 
-from scratch/ ├── linear regression/ ├── multiple linear regression/ ├── logistic regression/ ├── polynomial_regression/ ├── anaconda_projects/ └── README.md
+
 
 ---
 
 ## 📂 Project Structure
-
+from scratch/ 
+├── linear regression/ 
+├── multiple linear regression/ 
+├── logistic regression/ 
+├── polynomial_regression/ 
+├── anaconda_projects/ 
+└── README.md
 
 ---
 
