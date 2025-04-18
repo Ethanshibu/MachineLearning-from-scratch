@@ -1,3 +1,13 @@
+# 🧠 Machine Learning From Scratch
+
+This repository contains implementations of core Machine Learning algorithms **from scratch**, without relying on high-level ML libraries like scikit-learn. Each folder contains one algorithm, its dataset (if applicable), and Jupyter notebooks for step-by-step explanation and code.
+
+from scratch/ ├── linear regression/ ├── multiple linear regression/ ├── logistic regression/ ├── polynomial_regression/ ├── anaconda_projects/ └── README.md
+
+---
+
+## 📂 Project Structure
+
 
 ---
 
@@ -6,10 +16,11 @@
 ### 📈 Linear Regression
 - `linear_regression.ipynb`: Simple linear regression from scratch
 - `linereg_normal.ipynb`: Implementation using the Normal Equation
-- Dataset: `data.csv`
+- Dataset: `data.csv : study hours vs marks `
 
 ### 🔢 Multiple Linear Regression
 - `multiple_linear_regression.ipynb`: Handles multivariate input
+- Dataset: `California Housing dataset from sklearn`
 
 ### 🔁 Logistic Regression
 - `logistic_regression.ipynb`: Binary classification from scratch
@@ -22,7 +33,6 @@
 ---
 
 ## 🚧 Upcoming / In Progress
-> You can update this list as you go.
 
 - [ ] Decision Trees
 - [ ] Naive Bayes
@@ -55,21 +65,13 @@ All notebooks are tested using:
 
 ---
 
-## 🏷️ Tags
-`#MachineLearning` `#FromScratch` `#Regression` `#Python` `#BeginnerProjects` `#DataScience`
-
----
-
 ## 🧠 Author
 Ethan Shibu  
 🔗 [LinkedIn](https://linkedin.com/in/ethanissac)
 
 ---
 
-## 🛠️ How to Use
-- Clone the repo
-- Navigate to any regression type
-- Open `.ipynb` and run step-by-step
-- Try modifying the code with your own datasets!
+## 🏷️ Tags
+`#MachineLearning` `#FromScratch` `#Regression` `#Python` `#BeginnerProjects` `#DataScience`
 
 ---
