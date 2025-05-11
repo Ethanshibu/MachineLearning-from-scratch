@@ -5,7 +5,7 @@ This repository contains implementations of core Machine Learning algorithms **f
 
 
 ---
-
+```
 ## 📂 Project Structure
 from scratch/ 
 ├── linear regression/ 
@@ -14,7 +14,7 @@ from scratch/
 ├── polynomial_regression/ 
 ├── anaconda_projects/ 
 └── README.md
-
+```
 ---
 
 ## ✅ Completed Modules
