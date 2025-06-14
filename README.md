@@ -17,6 +17,9 @@ from scratch/
 ```
 ---
 
+This repo needs an overhaul as i will be writing the files again in pure python and avoiding the use of notebooks. 
+I will try to use google collab for any gpu-required tasks
+
 ## ✅ Completed Modules
 
 ### 📈 Linear Regression
