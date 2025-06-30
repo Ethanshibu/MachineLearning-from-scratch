@@ -46,7 +46,7 @@ I will try to use google collab for any gpu-required tasks
 - [ ] Decision Trees
 - [ ] Naive Bayes
 - [ ] K-Means Clustering
-- [ ] Neural Networks (Basic)
+- [ ] SVM
 
 ---
 
